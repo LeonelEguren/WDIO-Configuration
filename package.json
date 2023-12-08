@@ -1,0 +1,33 @@
+{
+  "name": "plantilla-wdio",
+  "version": "1.0.0",
+  "description": "Plantilla para iniciar rapidamnte un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx wdio run ./wdio.conf.js",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelEguren/WDIO-Configuration.git"
+  },
+  "author": "Leonel Eguren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonelEguren/WDIO-Configuration/issues"
+  },
+  "homepage": "https://github.com/LeonelEguren/WDIO-Configuration#readme",
+  "dependencies": {
+    "@wdio/allure-reporter": "^8.24.12",
+    "allure-commandline": "^2.25.0",
+    "chromedriver": "^119.0.1",
+    "webdriverio": "^8.26.0"
+  },
+  "devDependencies": {
+    "@types/webdriverio": "^5.0.0",
+    "@wdio/cli": "^8.26.0",
+    "@wdio/cucumber-framework": "^8.24.0",
+    "@wdio/local-runner": "^8.26.0",
+    "@wdio/spec-reporter": "^8.24.12"
+  }
+}

@@ -1,0 +1,23 @@
+# ##QMETRY PARAMS
+# QA_QMETRY_APIKEY='a715afd60f6e548e61404d67d3b551214e1b49da601d95620287395c9f66668739aa730e63d9342c0e07ea99b199290fcdc596e498b4341df98af9868f0f5aa96ea01a45edd8b2f1b42675526b62ebdd5861b51610de13ce02147699b48b8453'
+# QA_QMETRY_URL='randstadqa.atlassian.net' 
+# QA_QMETRY_IMPORT_URL='https://qtmcloud.qmetry.com/rest/api/automation/importresult'
+# QA_QMETRY_KEY_TESTRUN='QK-TR-48'
+# QA_QMETRY_FOLDERID='689306'
+
+# ##DB PARAMS
+# ##Para windows no es necesario usar DB_USER y DB_PASSWORD.
+# DB_USER="" 
+# DB_PASSWORD="" 
+# DB_HOSTNAME="hostDB" 
+# DB_NAME="nombreDB" 
+# DB_MAX_RECORDS="10"
+
+# ##SUGUS PARAMS
+# ##Mi Randstad Params
+# LOGIN_TEST_MIRANDSTAD_AR="https://mirandstad-test.randstad.com.ar" 
+# LOGIN_TEST_MIRANDSTAD_UY="https://mirandstad-test.randstad.com.uy/Account/"
+# # Users HR Portal
+# QA_HRPORTAL_USER="EDSAUCEDO"
+# QA_HRPORTAL_PASS="Prueba1234"
+
